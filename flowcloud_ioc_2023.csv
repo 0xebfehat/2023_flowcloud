@@ -2,5 +2,5 @@ indicator,type,note
 103.139.1[.]141,c2,FlowCloud v6.0.0
 47.111.22[.]65,c2,FlowCloud v6.0.0 test-purpose installer
 eb0820b6cbd6f5172bbe2c94dff8e7c13ad6276c98f36c34391c9ec69c08b271,sha256,FlowCloud v6.0.0 test-purpose installer
-5e2762927f0ebc4dbf5e39aaef073b99e731cff41a125157b2d19234d84db068,sha256,FlowCloud Loader 2018-12-27 04:16:30 UTC submitted from JP
-c377f7bd0de98846e2ab06de9553be4e9e68f393992a76b75b6df36a4e5ab9f8,sha256,FlowCloud Uninstaller 2015-01-19 04:08:57 submitted from CN 
+c377f7bd0de98846e2ab06de9553be4e9e68f393992a76b75b6df36a4e5ab9f8,sha256,FlowCloud Uninstaller submitted from CN at 2015-01-19 04:08:57 UTC 
+5e2762927f0ebc4dbf5e39aaef073b99e731cff41a125157b2d19234d84db068,sha256,FlowCloud Loader submitted from JP at 2018-12-27 04:16:30 UTC 
