@@ -1,5 +1,5 @@
 # USB flows in the Great River: IDA FLIRT signature & IOC
-IDA Pro FLIRT signature for FlowCloud RAT component, "fcClientDll and Indicators mentioned in my presentation "USB flows in the Great River".
+IDA Pro FLIRT signature for FlowCloud RAT component, "fcClientDll" and Indicators mentioned in my presentation "USB flows in the Great River".
 
 You can check the presentation at [Virus Bulletin 2023 website.](https://www.virusbulletin.com/conference/vb2023/abstracts/usb-flows-great-river-classic-tradecraft-still-alive/)
 
